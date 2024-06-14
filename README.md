@@ -8,7 +8,7 @@
 
 🚀 Resultados O episódio é uma introdução acessível e estimulante ao campo de TI e das IAs Generativas, ideal para quem busca uma compreensão rápida do assunto.
 
-[LINK PARA O PODCAST AQUI]([https://lexica.art/](https://github.com/Cristian-Eggert/lab-natty-or-not/blob/main/Podcast.mp3)
+[LINK PARA O PODCAST AQUI](https://github.com/Cristian-Eggert/lab-natty-or-not/blob/main/Podcast.mp3)
 
 💭 Reflexão O projeto destacou a abrangência das IAs Generativas na criação de conteúdo auditivo, abrindo novos caminhos para a produção de mídia digital.
 

@@ -1,4 +1,4 @@
-#**Podcast: Descobrindo IAs Generativas🎙️**
+**Podcast: Descobrindo IAs Generativas🎙️**
 
 📒 Este breve podcast oferece um passeio rápido, mas profundo, pelo mundo de TI e das IAs Generativas, além de sua influência na tecnologia moderna.
 
